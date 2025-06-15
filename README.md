@@ -1,3 +1,4 @@
+#Face Recognition System
 👤 Face Encoding Generator for Student Identification
 This Python project is designed to generate facial encodings for student images using the face_recognition library and save them to a serialized .p (pickle) file for later use—likely in an attendance system or facial recognition-based authentication tool.
 
